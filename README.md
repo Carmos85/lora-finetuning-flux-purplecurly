@@ -116,6 +116,12 @@ With a large dataset, it becomes possible to train the model to deeply understan
 
 At scale, the model no longer needs to proceed "by trial and error": it assimilates the essence of a style with surgical precision. This makes it possible to go from needing to generate many images to find one good result (due to a small dataset), to achieving exceptional accuracy on the first attempt — transforming AI stochasticity into a highly controllable, predictable, and reproducible tool.
 
+## Download the LoRA Weights
+
+The trained LoRA weights are available on Hugging Face:
+
+[![Download on Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Download-blue)](https://huggingface.co/Cam8892/lora-flux-purplecurly)
+
 ## Technical Stack
 
 | Component | Tool |
